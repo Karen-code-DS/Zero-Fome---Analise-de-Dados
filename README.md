@@ -37,5 +37,3 @@ Este projeto demonstra a importância de consolidar KPIs em painéis claros e ob
 **Nota**: Este projeto foi realizado de forma independente como estudo de análise de dados e desenvolvimento de dashboards, utilizando Python, Pandas, Streamlit e JupyterLab.
 
 ***
-
-Se quiser, personalize a seção de insights ou detalhes dos gráficos conforme suas descobertas favoritas no projeto!
